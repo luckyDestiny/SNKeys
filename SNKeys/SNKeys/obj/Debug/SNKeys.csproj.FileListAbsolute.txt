@@ -1,0 +1,5 @@
+C:\Users\Lilith\source\repos\SNKeys\SNKeys\bin\Debug\SNKeys.exe
+C:\Users\Lilith\source\repos\SNKeys\SNKeys\bin\Debug\SNKeys.pdb
+C:\Users\Lilith\source\repos\SNKeys\SNKeys\obj\Debug\SNKeys.csprojAssemblyReference.cache
+C:\Users\Lilith\source\repos\SNKeys\SNKeys\obj\Debug\SNKeys.exe
+C:\Users\Lilith\source\repos\SNKeys\SNKeys\obj\Debug\SNKeys.pdb
